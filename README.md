@@ -69,7 +69,7 @@ Hierarchical ASIC Full Flow Design &amp; Verification using Synopsys ICC2 on TSM
 - **Area**: 12,067 µm²
 - **Utilization**: 76.3%
 
-**핵심 설계 결정**:
+**핵심 설계**:
 - Core size: 110µm × 110µm (정사각형 구조)
 - I/O port 4면 분산 배치 (congestion 완화)
 - Clock signal 위치: 중앙 (55µm)
