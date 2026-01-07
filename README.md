@@ -3,11 +3,7 @@ Hierarchical ASIC Full Flow Design &amp; Verification using Synopsys ICC2 on TSM
 
 
 각 과제의 상세한 설계 과정 및 분석 결과는 **Assignment#.pdf**로 첨부하였습니다.
-## 📝 참고사항
 
-- 각 과제의 상세한 설계 과정 및 분석 결과는 해당 디렉토리의 보고서 참조
-- 모든 합성 결과는 TSMC 28nm 공정 기준
-- Optimal frequency는 설계 목표(저전력/고성능/균형)에 따라 달라질 수 있음
 
 ## 📋 프로젝트 개요
 
@@ -109,5 +105,8 @@ Hierarchical ASIC Full Flow Design &amp; Verification using Synopsys ICC2 on TSM
 - **Multi-metric Evaluation**: F/(A+P), F/A + F/P, F/(A×P), F²/(A×P)
 - **Trade-off Analysis**: 주파수별 PPA 곡선 분석
 
+## 📝 참고사항
 
+- 모든 합성 결과는 TSMC 28nm 공정 기준
+- Optimal frequency는 설계 목표(저전력/고성능/균형)에 따라 달라질 수 있음
 ---
