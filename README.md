@@ -30,7 +30,7 @@ Hierarchical ASIC Full Flow Design &amp; Verification using Synopsys ICC2 on TSM
 - Behavior simulation → Logic synthesis 과정
 - Timing report 분석 (Slack Violation)
 - Frequency-Area-Power trade-off 관계
-
+---
 ### Assignment 2: MAC (Multiply-Accumulate) 모듈 합성
 **목표**: Hierarchical synthesis 및 PrimeTime을 이용한 정밀 STA
 
@@ -44,7 +44,7 @@ Hierarchical ASIC Full Flow Design &amp; Verification using Synopsys ICC2 on TSM
 - Submodule 기반 Hierarchical Synthesis
 - Design Compiler vs PrimeTime 차이 분석
 - Wire Load Model vs RC 기반 delay 계산
-
+---
 ### Assignment 3: 4×4 Systolic Array 합성 및 Post-Synthesis Simulation
 **목표**: SDF를 이용한 동적 타이밍 시뮬레이션 및 검증
 
@@ -59,7 +59,7 @@ Hierarchical ASIC Full Flow Design &amp; Verification using Synopsys ICC2 on TSM
 - SDF back-annotation 기법
 - STA vs Dynamic Simulation 차이점
 - Submodule 합성 주파수 최적화
-
+---
 ### Assignment 4: Physical Design (Place & Route)
 **목표**: ICC2를 이용한 Chip Layout 생성 및 최종 PPA 최적화
 
