@@ -17,7 +17,7 @@ Hierarchical ASIC Full Flow Design &amp; Verification using Synopsys ICC2 on TSM
 - Power, Performance, Area (PPA) 최적화
 
 ## 📂 과제 구성
-
+---
 ### Assignment 1: RCA 기반 8-bit Multiplier 합성
 **목표**: Design Compiler를 이용한 기본 합성 및 주파수별 PPA 분석
 
